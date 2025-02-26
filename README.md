@@ -1,5 +1,5 @@
 
-![VXUG logo](logo.png)
+![VXUG logo](logo.gif)
 managed by [vx-underground](https://vx-underground.org) | follow us on [Twitter](https://twitter.com/vxunderground) | download malware samples at the [VXUG/samples](https://vx-underground.org/Samples) page
 
 ## Liability Disclaimer:
